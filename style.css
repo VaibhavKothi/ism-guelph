@@ -1,0 +1,12 @@
+body{
+  background-color: #000;
+  align-items: center;
+  display:flex; flex-direction:column; justify-content:center;
+  min-height:100vh;
+}
+img{
+  align-self: center;
+  justify-content: center;
+  width: 100%;
+  scale: 80%;
+}
